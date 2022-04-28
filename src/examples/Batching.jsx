@@ -10,7 +10,7 @@ export const Batching = () => {
 
     console.log('RENDER')
 
-    ////Тут Batching работает, один рендер происходит
+    //// Тут Batching работает, один рендер происходит
 
     const update = () => {
         Promise.resolve()
